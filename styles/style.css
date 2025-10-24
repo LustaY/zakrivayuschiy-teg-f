@@ -232,7 +232,7 @@ main {
   transition: fill linear 0.3s 0.06s;
 }
 
-.like-icon.is-liked .heart {
+.like-icon.is-liked {
   animation: scale 1 0.3s 0.1s ease-in;
 }
 
